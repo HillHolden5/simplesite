@@ -482,7 +482,7 @@ section {
 #about .about-container .background {
   min-height: 10000px;
   background: url(https://github.com/HillHolden5/simplesite/blob/main/assets/img/Family.jpeg?raw=true) center top no-repeat; /* this sets the image and properties on the about page */
-  margin-bottom: 0px;
+  margin-bottom: 10000px;
 }
 #about .about-container .content {
   background: #fff;
